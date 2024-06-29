@@ -1,5 +1,5 @@
 {
-  "access": "private",
+  "access": "public",
   "type": "exercise",
   "programming_language": "python",
   "description": {
