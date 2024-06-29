@@ -1,1 +1,12 @@
-
+{
+  "description": {
+    "names": {
+      "nl": "een voorbeeld leestekst",
+      "en": "an example reading text"
+    }
+  },
+  "type": "content",
+  "access": "private",
+  "labels": ["test", "voorbeeld"]
+  "contact": "Aron Storme <aron.storme@sabraso.be>"
+}
