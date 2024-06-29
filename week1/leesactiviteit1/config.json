@@ -1,5 +1,5 @@
 {
-  "access": "private",
+  "access": "public",
   "description": {
     "names": {
       "nl": "een voorbeeld leestekst",
